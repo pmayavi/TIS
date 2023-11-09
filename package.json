@@ -1,0 +1,16 @@
+{
+  "name": "contenedor1",
+  "version": "1.0.0",
+  "description": "Node.js on docker",
+  "main": "server.js",
+  "autor": "Pablo Maya",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "markdownlint-cli": "^0.37.0"
+  }
+}
