@@ -29,3 +29,5 @@ db.test.deleteOne({ name:"master pod" })
 db.test.find()
 exit
 ```
+
+[Demostracion del funcionamiento](https://youtu.be/9xfggCAFM_k?si=_1aq2S_Rew7ys1K0)
