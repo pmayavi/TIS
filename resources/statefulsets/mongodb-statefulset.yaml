@@ -20,7 +20,7 @@ spec:
           ports: 
             - containerPort: 27017
           volumeMounts:
-            - name: pvc
+            name: pvc
             mounthPath: /data/db
   volumeClaimTemplates:
     - metadata:
